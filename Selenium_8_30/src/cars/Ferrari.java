@@ -12,5 +12,6 @@ public class Ferrari {
 		
 		driver.get("https://www.ferrari.com/en-IN");
 		Reporter.log("Ferrari launched successfully",true);
+		Reporter.log("Modified in github",true);
 	}
 }
